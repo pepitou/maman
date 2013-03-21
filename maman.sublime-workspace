@@ -1,0 +1,683 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"audioCompatible"
+			],
+			[
+				"pr",
+				"printSentence"
+			],
+			[
+				"in",
+				"incrementLoading"
+			],
+			[
+				"a",
+				"accessoire"
+			],
+			[
+				"render",
+				"renderFinalMom"
+			],
+			[
+				"y",
+				"ymaman"
+			],
+			[
+				"x",
+				"xmaman"
+			],
+			[
+				"gene",
+				"generateNegation"
+			],
+			[
+				"ge",
+				"getAsset"
+			],
+			[
+				"fo",
+				"fond"
+			],
+			[
+				"Gen",
+				"generateAffirmation"
+			],
+			[
+				"inte",
+				"intensityProgress"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"com",
+				"commander"
+			],
+			[
+				"ct",
+				"ctxL"
+			],
+			[
+				"ti",
+				"tickProgress"
+			],
+			[
+				"lo",
+				"localExecution"
+			],
+			[
+				"tic",
+				"tickGraphical"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ima",
+				"imgSpriteCocoLoading"
+			],
+			[
+				"s",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1566,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elcode/Config.js",
+			"settings":
+			{
+				"buffer_size": 826,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elcode/Loading.js",
+			"settings":
+			{
+				"buffer_size": 4263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elcode/AssetsManager.js",
+			"settings":
+			{
+				"buffer_size": 1312,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elcode/MAMAN.js",
+			"settings":
+			{
+				"buffer_size": 11325,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elcode/face.js",
+			"settings":
+			{
+				"buffer_size": 7434,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elcode/Sounds.js",
+			"settings":
+			{
+				"buffer_size": 1626,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elcode/bgIntensity.js",
+			"settings":
+			{
+				"buffer_size": 2812,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "306/style.css",
+			"settings":
+			{
+				"buffer_size": 3382,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "maman.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 11313,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pepito/Documents/GitHub/maman/maman.sublime-workspace",
+		"/C/Users/Pepito/Documents/GitHub/maman/elcode/libs/gamejs.js",
+		"/C/Users/Pepito/Documents/GitHub/maman/elcode/AssetsManager.js",
+		"/C/Users/Pepito/Documents/GitHub/maman/elcode/Sprite.js",
+		"/C/Users/Pepito/Desktop/Disagne/maman/dacode/AssetsManager.js",
+		"/C/Users/Pepito/Desktop/Disagne/maman/index.html",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/Sounds.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/306/style.css",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/AssetsManager.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/Lights.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/Config.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/Loading.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/index.html",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/PTLITC.js",
+		"/F/Downloads/AUTORISATION St-phane PARENT.doc",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/Sprite.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/sprite.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/dacode/loading.js",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/picz/banner.svg",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/picz/0.png",
+		"/C/Users/Pepito/Documents/GitHub/put-the-lime-in-the-coconut/put-the-lime-in-the-coconut.sublime-workspace",
+		"/C/Users/Pepito/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Pepito/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"winO",
+			"s",
+			"loadS",
+			"print",
+			"è",
+			"é",
+			"à",
+			"generateAffirmation",
+			"incrementLoading",
+			"detFaceClicked",
+			"press",
+			"printSentence",
+			"generateNegation",
+			"setT",
+			"rende",
+			"ctx",
+			"LoadingBarContainer",
+			"changeLanguageTo",
+			"#",
+			"color",
+			"progress",
+			"start",
+			"start();",
+			"start",
+			"(){\n",
+			"strokeText",
+			"faceMatrix",
+			"init",
+			"detCoconut",
+			"updateCoconutMatrix",
+			"finishedLoading",
+			"playPause",
+			"tickMusical",
+			"ctxAudio",
+			"context",
+			"ctx",
+			"BufferLoader",
+			"render",
+			"tickMusical",
+			"debug",
+			"detCoconut",
+			"lon",
+			"ctx",
+			"tickGraphical",
+			"musicalLoop",
+			"start",
+			"callback",
+			"son",
+			"color",
+			"clic",
+			"click",
+			"440",
+			"tickProgress",
+			"tickGraphical",
+			"drawimage",
+			"draw",
+			"666666",
+			"start",
+			"bufferAudio1",
+			"ass",
+			"start",
+			"load",
+			"getNextSpriteStep",
+			"renderCocoLoading",
+			"imageLoadingLoaded",
+			"load"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"detFaceClicked",
+			"audioContext",
+			"context"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "elcode/Config.js",
+					"settings":
+					{
+						"buffer_size": 826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "elcode/Loading.js",
+					"settings":
+					{
+						"buffer_size": 4263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3876,
+								3876
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2025.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "elcode/AssetsManager.js",
+					"settings":
+					{
+						"buffer_size": 1312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "elcode/MAMAN.js",
+					"settings":
+					{
+						"buffer_size": 11325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1976,
+								1976
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 583.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "elcode/face.js",
+					"settings":
+					{
+						"buffer_size": 7434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5718,
+								5719
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1063.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "elcode/Sounds.js",
+					"settings":
+					{
+						"buffer_size": 1626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "elcode/bgIntensity.js",
+					"settings":
+					{
+						"buffer_size": 2812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								859,
+								868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "306/style.css",
+					"settings":
+					{
+						"buffer_size": 3382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "maman.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 11313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.614041321536,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 723.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,193 @@
+/*Bases*/
+#doodle {
+	position: relative;
+	width: 975px;
+	height: 950px;
+	margin: auto;
+}
+
+#LoadingBarContainer{
+	position: absolute;
+	background-position: top left;
+	background-size:975px 900px;
+	z-index: 9000;
+	width: 975px;
+	height: 815px;
+}
+
+.fr{
+	background-image: url('../eyescandy/ui/intro_fr.png');
+}
+.eng{
+	background-image: url('../eyescandy/ui/intro_eng.png');
+}
+
+	#loadingBar{
+		/*barre de chargement*/
+		position: absolute;
+		margin-top: 525px;
+		margin-left: 510px;
+		width: 260px;
+		height: 50px;
+		font-family: "boum", Times, serif;
+		font-size: 50px;
+		color: rgb(72, 9, 61);
+	}
+
+#container{
+	position: relative;
+	background-image: url('../eyescandy/ui/layout_jeu.png');
+	background-size:975px 900px;
+	width: 975px;
+	height: 900px;
+}
+
+#sources{
+	color: #666;
+	font-family: sans-serif;
+	font-size: 10px;
+	line-height: 0.5;
+	margin: auto;
+}
+
+
+
+/*Container*/
+#header{
+	height : 99px;
+}
+
+	#gameContainer{
+		position : relative;
+		margin : auto;
+		width : 800px;
+		height : 800px;
+	}
+
+		#lightsCanvas{
+			position : absolute;
+			top : 0px;
+			left : 0px;
+		}
+
+		#gameCanvas{
+			position : absolute;
+			top : 0px;
+			left : 0px;
+			image-rendering: -moz-crisp-edges;
+    		image-rendering: -webkit-optimize-contrast;
+		}
+
+#quitHelpButton{
+	position: absolute;
+	background-image: url('../eyescandy/ui/croixblanche.png');
+	width: 100px;
+	height: 100px;
+	background-size: 100%;
+	margin-top: 87px;
+	margin-left: 800px;
+}
+/*
+@font-face {
+    font-family: "bonkund";
+    src: url('../eyescandy/ui/Bonkund.ttf');
+}*/
+
+@font-face {
+    font-family: "boum";
+    src: url('../eyescandy/ui/boum.ttf');
+}
+
+html {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-webkit-touch-callout: none;
+	-webkit-user-drag: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+/*Footer*/
+#flagButtonENG{
+	background-image: url('../eyescandy/ui/drapeau_eng.png');
+	position: absolute;
+	height: 60px;
+	width: 60px;
+	margin-top: -104px;
+	background-size: 100%;
+	margin-left: 845px;
+}
+#flagButtonFR{
+	background-image: url('../eyescandy/ui/drapeau_fr.png');
+	position: absolute;
+	height: 60px;
+	width: 60px;
+	margin-top: -104px;
+	background-size: 100%;
+	margin-left: 845px;
+}
+
+#soundButton{
+	background-image: url('../eyescandy/ui/son_on.png');
+	position: absolute;
+	height: 60px;
+	width: 60px;
+	margin-top: -103px;
+	background-size: 100%;
+	margin-left: 804px;
+}
+
+#soundButtonOff{
+	background-image: url('../eyescandy/ui/son_off.png');
+	position: absolute;
+	height: 60px;
+	width: 60px;
+	margin-top: -103px;
+	background-size: 100%;
+	margin-left: 804px;
+}
+
+#helpbutton{
+	background-image: url('../eyescandy/ui/bouton_aide.png');
+	position: absolute;
+	height: 60px;
+	width: 60px;
+	margin-top: -55px;
+	background-size: 100%;
+	margin-left: 805px;
+}
+
+#html5Logo{
+	background-image: url('../eyescandy/ui/logo_html.png');
+	position: absolute;
+	height: 60px;
+	width: 60px;
+	margin-top: -60px;
+	background-size: 100%;
+	margin-left: 846px;
+}
+
+
+#EndingDiv{
+	position: absolute;
+	background-position: top left;
+	background-size: 100%;
+	z-index: 9000;
+	width: 803px;
+	height: 800px;
+	margin-top: 100px;
+	margin-left: 87px;
+}
+
+.frWin{
+	background-image: url('../eyescandy/ui/winFr.png');
+}
+.engWin{
+	background-image: url('../eyescandy/ui/winEng.png');
+}
+.frLose{
+	background-image: url('../eyescandy/ui/loseFr.png');
+}
+.engLose{
+	background-image: url('../eyescandy/ui/loseEng.png');
+}

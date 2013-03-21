@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<link rel="stylesheet" href="306/style.css" />
+		<script src="elcode/libs/jquery-1.8.2.min.js"></script>
+		
+		<!--
+		<script src="elcode/libs/yabble.js"></script>
+		<script src="elcode/libs/gamejs.min.js"></script>
+		<script>
+	        require.setModuleRoot('./javascript/');
+	        require.run('main')
+    	</script> -->
+
+		<script src="elcode/Config.js"></script>
+		<script src="elcode/AssetsManager.js"></script>
+		<script src="elcode/Loading.js"></script>
+		<script src="elcode/Sprite.js"></script>
+		<script src="elcode/MAMAN.js"></script>
+		<script src="elcode/Sounds.js"></script>
+		<script src="elcode/bgIntensity.js"></script>
+		<script src="elcode/face.js"></script>
+	</head>
+
+	<body style="background-color: #e8e8e6;">
+		<div id="doodle">
+			<div id="LoadingBarContainer" class="eng">
+				<div id="loadingBar">0 %</div>
+			</div>
+			<div id="container"></div>
+			<div id="sources"><p>http://github.com/pepitou/maman</p><p>Graphics : Max</p></div>
+		</div>
+		
+		<script>window.onload = load;</script>
+	</body>
+	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-35601371-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+</html>
+<!-- With love, Pepito -->
